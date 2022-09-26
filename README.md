@@ -1,8 +1,8 @@
 # CoffeeTimeShop
 
-> Desafio 
+> Desafio HTML clean + CSS.
 
-![preview](link de preview)
+![preview](preview.png)
 
 
 Projeto construído durante um desafio de codigos html clean + css.
@@ -17,6 +17,9 @@ Projeto construído durante um desafio de codigos html clean + css.
 - CSS
 - Git e Github.
 
+
+## Credits
+🔗 [Clique aqui para acessar a video aula.](https://youtu.be/91Q6RvKvd7o)
 
 ## ✉️ Contato 
 
