@@ -19,7 +19,7 @@ Projeto construído durante um desafio de codigos html clean + css.
 
 
 ## Credits
-🔗 [Clique aqui para acessar a video aula.](https://youtu.be/91Q6RvKvd7o)
+🔗 [Clique aqui para acessar a video aula.](_blank https://youtu.be/91Q6RvKvd7o)
 
 ## ✉️ Contato 
 
