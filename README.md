@@ -7,7 +7,7 @@
 
 Projeto construído durante um desafio de codigos html clean + css.
 
-🔗 [Clique aqui para acessar o projeto.](http://kaicbrito.github.io/)
+🔗 [Clique aqui para acessar o projeto.](http://kaicbrito.github.io/coffeshop)
 
 
 
